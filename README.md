@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on web developement
+- 🌱 I’m currently learning javascript
+- 👯 I'm doing FrontEndMentor Challenges
+
+[FrontEnd Mentor profile](https://www.frontendmentor.io/profile/ElBozDev)
 
 <!--
 **ElBozDev/elbozdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
